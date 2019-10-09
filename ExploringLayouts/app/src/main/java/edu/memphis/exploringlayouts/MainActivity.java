@@ -24,5 +24,5 @@ public class MainActivity extends AppCompatActivity {
     public void loadMenuLayout(View v){
         setContentView(R.layout.main_menu);
     }
-    
+
 }
