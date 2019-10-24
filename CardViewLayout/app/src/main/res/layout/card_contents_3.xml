@@ -24,14 +24,14 @@
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="16dp"
-        android:text="Full Stack Development with Go"
+        android:text="Android Game Programming By Example"
         android:textSize="24sp" />
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="476dp"
         android:layout_gravity="center_horizontal"
-        app:srcCompat="@drawable/image5" />
+        app:srcCompat="@drawable/image_3" />
 
     <TextView
         android:id="@+id/textView2"
@@ -44,7 +44,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="16dp"
-        android:text="Full Stack Development with Go"
+        android:text="Anrodi Game Programming By Example"
         android:textSize="16sp" />
 
     <TextView
